@@ -11,3 +11,7 @@ Steps to run the code [Below steps are mentioned based on my localhost]:
   This activates your virtual machine  and installs the dependencies
 - Paste the above main.py code in a file outside the venv folder and run python main.py
 - Open http://127.0.0.1:5000/
+
+# Screenshot
+
+![](https://r2.fivemanage.com/GoT9ggvJQU94cTuQFMvtd/image-encrypt-decrypt.png)
